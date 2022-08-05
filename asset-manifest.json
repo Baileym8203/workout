@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/workout/static/css/main.073c9b0a.css",
+    "main.js": "/workout/static/js/main.5aac383b.js",
+    "static/js/787.c9bfbf0d.chunk.js": "/workout/static/js/787.c9bfbf0d.chunk.js",
+    "service-worker.js": "/workout/service-worker.js",
+    "static/media/logo.svg": "/workout/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/workout/index.html",
+    "main.073c9b0a.css.map": "/workout/static/css/main.073c9b0a.css.map",
+    "main.5aac383b.js.map": "/workout/static/js/main.5aac383b.js.map",
+    "787.c9bfbf0d.chunk.js.map": "/workout/static/js/787.c9bfbf0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5aac383b.js"
+  ]
+}
